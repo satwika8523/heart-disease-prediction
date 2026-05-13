@@ -1,0 +1,198 @@
+Patient_ID,Age,Gender,Smoking_Habit,Diet,Family_History,Exercise_Habits,Systolic_BP,Diastolic_BP,Heart_Condition,Swelling,Dizziness,Irregular_Heart_Rate,Diagnosed_Heart_Disease
+1,55,Male,Yes,Balanced,Yes,Moderate,130,80,Normal,No,No,No,Coronary Artery Disease
+2,65,Female,No,High Fat,No,Sedentary,150,90,Hypertension,Yes,Yes,Yes,Heart Failure
+3,40,Male,No,Low Fat,Yes,Active,150,70,Normal,No,No,No,Arrhythmia
+4,70,Female,Yes,High Fat,Yes,Sedentary,150,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+5,60,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+6,50,Female,No,Low Fat,No,Active,125,75,Normal,No,No,Yes,Heart Murmur
+7,45,Male,Yes,Balanced,No,Sedentary,135,80,Coronary Disease,No,No,No,Coronary Microvascular Disease
+8,55,Female,No,High Fat,Yes,Active,145,85,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+9,75,Male,Yes,High Fat,Yes,Sedentary,160,95,Hypertension,Yes,No,No,Stroke
+10,70,Female,No,Balanced,Yes,Moderate,140,80,Heart Disease,Yes,No,No,Valvular Heart Disease
+11,65,Male,No,Low Fat,Yes,Active,135,75,Normal,No,No,No,Pericarditis
+12,45,Female,Yes,High Fat,No,Sedentary,150,90,Hypertension,Yes,No,No,Peripheral Artery Disease
+13,60,Male,Yes,Balanced,Yes,Moderate,130,81,Normal,No,No,No,Coronary Artery Disease
+14,61,Female,No,High Fat,No,Sedentary,150,91,Hypertension,Yes,Yes,Yes,Heart Failure
+15,61,Male,No,Low Fat,Yes,Active,120,71,Normal,No,No,No,Arrhythmia
+16,61,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+17,62,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+18,62,Female,No,Low Fat,No,Active,125,76,Normal,No,No,Yes,Heart Murmur
+19,63,Male,Yes,Balanced,No,Sedentary,135,81,Coronary Disease,No,No,No,Coronary Microvascular Disease
+20,63,Female,No,High Fat,Yes,Active,145,86,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+21,63,Male,Yes,High Fat,Yes,Sedentary,160,96,Hypertension,Yes,No,No,Stroke
+22,64,Female,No,Balanced,Yes,Moderate,140,81,Heart Disease,Yes,No,No,Valvular Heart Disease
+23,64,Male,No,Low Fat,Yes,Active,135,76,Normal,No,No,No,Pericarditis
+24,64,Female,Yes,High Fat,No,Sedentary,150,91,Hypertension,Yes,No,No,Peripheral Artery Disease
+25,65,Male,Yes,Balanced,Yes,Moderate,130,82,Normal,No,No,No,Coronary Artery Disease
+26,65,Female,No,High Fat,No,Sedentary,150,92,Hypertension,Yes,Yes,Yes,Heart Failure
+27,65,Male,No,Low Fat,Yes,Active,120,72,Normal,No,No,No,Arrhythmia
+28,66,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+29,66,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+30,67,Female,No,Low Fat,No,Active,125,77,Normal,No,No,Yes,Heart Murmur
+31,67,Male,Yes,Balanced,No,Sedentary,135,82,Coronary Disease,No,No,No,Coronary Microvascular Disease
+32,67,Female,No,High Fat,Yes,Active,145,87,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+33,68,Male,Yes,High Fat,Yes,Sedentary,160,97,Hypertension,Yes,No,No,Stroke
+34,68,Female,No,Balanced,Yes,Moderate,140,82,Heart Disease,Yes,No,No,Valvular Heart Disease
+35,68,Male,No,Low Fat,Yes,Active,135,77,Normal,No,No,No,Pericarditis
+36,69,Female,Yes,High Fat,No,Sedentary,150,92,Hypertension,Yes,No,No,Peripheral Artery Disease
+37,69,Male,Yes,Balanced,Yes,Moderate,130,83,Normal,No,No,No,Coronary Artery Disease
+38,69,Female,No,High Fat,No,Sedentary,150,93,Hypertension,Yes,Yes,Yes,Heart Failure
+39,70,Male,No,Low Fat,Yes,Active,120,73,Normal,No,No,No,Arrhythmia
+40,70,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+41,71,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+42,71,Female,No,Low Fat,No,Active,125,78,Normal,No,No,Yes,Heart Murmur
+43,71,Male,Yes,Balanced,No,Sedentary,135,83,Coronary Disease,No,No,No,Coronary Microvascular Disease
+44,72,Female,No,High Fat,Yes,Active,145,88,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+45,72,Male,Yes,High Fat,Yes,Sedentary,160,98,Hypertension,Yes,No,No,Stroke
+46,72,Female,No,Balanced,Yes,Moderate,140,83,Heart Disease,Yes,No,No,Valvular Heart Disease
+47,73,Male,No,Low Fat,Yes,Active,135,78,Normal,No,No,No,Pericarditis
+48,73,Female,Yes,High Fat,No,Sedentary,150,93,Hypertension,Yes,No,No,Peripheral Artery Disease
+49,74,Male,Yes,Balanced,Yes,Moderate,130,84,Normal,No,No,No,Coronary Artery Disease
+50,74,Female,No,High Fat,No,Sedentary,150,94,Hypertension,Yes,Yes,Yes,Heart Failure
+51,74,Male,No,Low Fat,Yes,Active,120,74,Normal,No,No,No,Arrhythmia
+52,75,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+53,75,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+54,75,Female,No,Low Fat,No,Active,125,79,Normal,No,No,Yes,Heart Murmur
+55,76,Male,Yes,Balanced,No,Sedentary,135,84,Coronary Disease,No,No,No,Coronary Microvascular Disease
+56,76,Female,No,High Fat,Yes,Active,145,89,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+57,76,Male,Yes,High Fat,Yes,Sedentary,160,99,Hypertension,Yes,No,No,Stroke
+58,77,Female,No,Balanced,Yes,Moderate,140,84,Heart Disease,Yes,No,No,Valvular Heart Disease
+59,77,Male,No,Low Fat,Yes,Active,135,79,Normal,No,No,No,Pericarditis
+60,78,Female,Yes,High Fat,No,Sedentary,150,94,Hypertension,Yes,No,No,Peripheral Artery Disease
+61,78,Male,Yes,Balanced,Yes,Moderate,130,85,Normal,No,No,No,Coronary Artery Disease
+62,78,Female,No,High Fat,No,Sedentary,150,95,Hypertension,Yes,Yes,Yes,Heart Failure
+63,79,Male,No,Low Fat,Yes,Active,120,75,Normal,No,No,No,Arrhythmia
+64,79,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+65,79,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+66,80,Female,No,Low Fat,No,Active,125,80,Normal,No,No,Yes,Heart Murmur
+67,80,Male,Yes,Balanced,No,Sedentary,135,85,Coronary Disease,No,No,No,Coronary Microvascular Disease
+68,80,Female,No,High Fat,Yes,Active,145,90,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+69,81,Male,Yes,High Fat,Yes,Sedentary,160,100,Hypertension,Yes,No,No,Stroke
+70,81,Female,No,Balanced,Yes,Moderate,140,85,Heart Disease,Yes,No,No,Valvular Heart Disease
+71,82,Male,No,Low Fat,Yes,Active,135,80,Normal,No,No,No,Pericarditis
+72,82,Male,Yes,Balanced,Yes,Moderate,130,86,Normal,No,No,No,Coronary Artery Disease
+73,83,Female,No,High Fat,No,Sedentary,150,96,Hypertension,Yes,Yes,Yes,Heart Failure
+74,83,Male,No,Low Fat,Yes,Active,120,76,Normal,No,No,No,Arrhythmia
+75,83,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+76,84,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+77,84,Female,No,Low Fat,No,Active,125,81,Normal,No,No,Yes,Heart Murmur
+78,85,Male,Yes,Balanced,No,Sedentary,135,86,Coronary Disease,No,No,No,Coronary Microvascular Disease
+79,85,Female,No,High Fat,Yes,Active,145,91,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+80,85,Male,Yes,High Fat,Yes,Sedentary,160,101,Hypertension,Yes,No,No,Stroke
+81,86,Female,No,Balanced,Yes,Moderate,140,86,Heart Disease,Yes,No,No,Valvular Heart Disease
+82,86,Male,No,Low Fat,Yes,Active,135,81,Normal,No,No,No,Pericarditis
+83,86,Female,Yes,High Fat,No,Sedentary,150,96,Hypertension,Yes,No,No,Peripheral Artery Disease
+84,87,Male,Yes,Balanced,Yes,Moderate,130,87,Normal,No,No,No,Coronary Artery Disease
+85,87,Female,No,High Fat,No,Sedentary,150,97,Hypertension,Yes,Yes,Yes,Heart Failure
+86,87,Male,Yes,Balanced,Yes,Moderate,130,81,Normal,No,No,No,Coronary Artery Disease
+87,88,Female,No,High Fat,No,Sedentary,150,91,Hypertension,Yes,Yes,Yes,Heart Failure
+88,88,Male,No,Low Fat,Yes,Active,120,71,Normal,No,No,No,Arrhythmia
+89,88,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+90,89,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+91,89,Female,No,Low Fat,No,Active,125,76,Normal,No,No,Yes,Heart Murmur
+92,90,Male,Yes,Balanced,No,Sedentary,135,81,Coronary Disease,No,No,No,Coronary Microvascular Disease
+93,90,Female,No,High Fat,Yes,Active,145,86,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+94,90,Male,Yes,High Fat,Yes,Sedentary,160,96,Hypertension,Yes,No,No,Stroke
+95,91,Female,No,Balanced,Yes,Moderate,140,81,Heart Disease,Yes,No,No,Valvular Heart Disease
+96,91,Male,No,Low Fat,Yes,Active,135,76,Normal,No,No,No,Pericarditis
+97,91,Female,Yes,High Fat,No,Sedentary,150,91,Hypertension,Yes,No,No,Peripheral Artery Disease
+98,92,Male,Yes,Balanced,Yes,Moderate,130,82,Normal,No,No,No,Coronary Artery Disease
+99,92,Female,No,High Fat,No,Sedentary,150,92,Hypertension,Yes,Yes,Yes,Heart Failure
+100,93,Male,No,Low Fat,Yes,Active,120,72,Normal,No,No,No,Arrhythmia
+101,93,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+102,93,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+103,94,Female,No,Low Fat,No,Active,125,77,Normal,No,No,Yes,Heart Murmur
+104,94,Male,Yes,Balanced,No,Sedentary,135,82,Coronary Disease,No,No,No,Coronary Microvascular Disease
+105,94,Female,No,High Fat,Yes,Active,145,87,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+106,95,Male,Yes,High Fat,Yes,Sedentary,160,97,Hypertension,Yes,No,No,Stroke
+107,95,Female,No,Balanced,Yes,Moderate,140,82,Heart Disease,Yes,No,No,Valvular Heart Disease
+108,95,Male,No,Low Fat,Yes,Active,135,77,Normal,No,No,No,Pericarditis
+109,96,Female,Yes,High Fat,No,Sedentary,150,92,Hypertension,Yes,No,No,Peripheral Artery Disease
+110,96,Male,Yes,Balanced,Yes,Moderate,130,83,Normal,No,No,No,Coronary Artery Disease
+111,97,Female,No,High Fat,No,Sedentary,150,93,Hypertension,Yes,Yes,Yes,Heart Failure
+112,97,Male,No,Low Fat,Yes,Active,120,73,Normal,No,No,No,Arrhythmia
+113,97,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+114,98,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+115,98,Female,No,Low Fat,No,Active,125,78,Normal,No,No,Yes,Heart Murmur
+116,98,Male,Yes,Balanced,No,Sedentary,135,83,Coronary Disease,No,No,No,Coronary Microvascular Disease
+117,99,Female,No,High Fat,Yes,Active,145,88,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+118,99,Male,Yes,High Fat,Yes,Sedentary,160,98,Hypertension,Yes,No,No,Stroke
+119,100,Female,No,Balanced,Yes,Moderate,140,83,Heart Disease,Yes,No,No,Valvular Heart Disease
+120,100,Male,No,Low Fat,Yes,Active,135,78,Normal,No,No,No,Pericarditis
+121,100,Female,Yes,High Fat,No,Sedentary,150,93,Hypertension,Yes,No,No,Peripheral Artery Disease
+122,101,Male,Yes,Balanced,Yes,Moderate,130,84,Normal,No,No,No,Coronary Artery Disease
+123,101,Female,No,High Fat,No,Sedentary,150,94,Hypertension,Yes,Yes,Yes,Heart Failure
+124,101,Male,No,Low Fat,Yes,Active,120,74,Normal,No,No,No,Arrhythmia
+125,102,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+126,102,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+127,103,Female,No,Low Fat,No,Active,125,79,Normal,No,No,Yes,Heart Murmur
+128,103,Male,Yes,Balanced,No,Sedentary,135,84,Coronary Disease,No,No,No,Coronary Microvascular Disease
+129,103,Female,No,High Fat,Yes,Active,145,89,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+130,104,Male,Yes,High Fat,Yes,Sedentary,160,99,Hypertension,Yes,No,No,Stroke
+131,104,Female,No,Balanced,Yes,Moderate,140,84,Heart Disease,Yes,No,No,Valvular Heart Disease
+132,104,Male,No,Low Fat,Yes,Active,135,79,Normal,No,No,No,Pericarditis
+133,105,Female,Yes,High Fat,No,Sedentary,150,94,Hypertension,Yes,No,No,Peripheral Artery Disease
+134,105,Male,Yes,Balanced,Yes,Moderate,130,85,Normal,No,No,No,Coronary Artery Disease
+135,105,Female,No,High Fat,No,Sedentary,150,95,Hypertension,Yes,Yes,Yes,Heart Failure
+136,106,Male,No,Low Fat,Yes,Active,120,75,Normal,No,No,No,Arrhythmia
+137,106,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+138,107,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+139,107,Female,No,Low Fat,No,Active,125,80,Normal,No,No,Yes,Heart Murmur
+140,107,Male,Yes,Balanced,No,Sedentary,135,85,Coronary Disease,No,No,No,Coronary Microvascular Disease
+141,108,Female,No,High Fat,Yes,Active,145,90,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+142,108,Male,Yes,High Fat,Yes,Sedentary,160,100,Hypertension,Yes,No,No,Stroke
+143,108,Female,No,Balanced,Yes,Moderate,140,85,Heart Disease,Yes,No,No,Valvular Heart Disease
+144,109,Male,No,Low Fat,Yes,Active,135,80,Normal,No,No,No,Pericarditis
+145,109,Female,Yes,High Fat,No,Sedentary,150,95,Hypertension,Yes,No,No,Peripheral Artery Disease
+146,110,Male,Yes,Balanced,Yes,Moderate,130,86,Normal,No,No,No,Coronary Artery Disease
+147,110,Female,No,High Fat,No,Sedentary,150,96,Hypertension,Yes,Yes,Yes,Heart Failure
+148,110,Male,No,Low Fat,Yes,Active,120,76,Normal,No,No,No,Arrhythmia
+149,111,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+150,111,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+151,111,Female,No,Low Fat,No,Active,125,81,Normal,No,No,Yes,Heart Murmur
+152,112,Male,Yes,Balanced,No,Sedentary,135,86,Coronary Disease,No,No,No,Coronary Microvascular Disease
+153,112,Female,No,High Fat,Yes,Active,145,91,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+154,113,Male,Yes,High Fat,Yes,Sedentary,160,101,Hypertension,Yes,No,No,Stroke
+155,113,Female,No,Balanced,Yes,Moderate,140,86,Heart Disease,Yes,No,No,Valvular Heart Disease
+156,113,Male,No,Low Fat,Yes,Active,135,81,Normal,No,No,No,Pericarditis
+157,114,Male,Yes,Balanced,Yes,Moderate,130,87,Normal,No,No,No,Coronary Artery Disease
+158,114,Female,No,High Fat,No,Sedentary,150,97,Hypertension,Yes,Yes,Yes,Heart Failure
+159,114,Male,No,Low Fat,Yes,Active,120,77,Normal,No,No,No,Arrhythmia
+160,115,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+161,115,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+162,115,Female,No,Low Fat,No,Active,125,82,Normal,No,No,Yes,Heart Murmur
+163,116,Male,Yes,Balanced,No,Sedentary,135,87,Coronary Disease,No,No,No,Coronary Microvascular Disease
+164,116,Female,No,High Fat,Yes,Active,145,92,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+165,117,Male,Yes,High Fat,Yes,Sedentary,160,102,Hypertension,Yes,No,No,Stroke
+166,117,Female,No,Balanced,Yes,Moderate,140,87,Heart Disease,Yes,No,No,Valvular Heart Disease
+167,117,Male,No,Low Fat,Yes,Active,135,82,Normal,No,No,No,Pericarditis
+168,118,Female,Yes,High Fat,No,Sedentary,150,97,Hypertension,Yes,No,No,Peripheral Artery Disease
+169,118,Male,Yes,Balanced,Yes,Moderate,130,88,Normal,No,No,No,Coronary Artery Disease
+170,118,Female,No,High Fat,No,Sedentary,150,98,Hypertension,Yes,Yes,Yes,Heart Failure
+171,119,Male,Yes,Balanced,Yes,Moderate,130,82,Normal,No,No,No,Coronary Artery Disease
+172,119,Female,No,High Fat,No,Sedentary,150,92,Hypertension,Yes,Yes,Yes,Heart Failure
+173,120,Male,No,Low Fat,Yes,Active,120,72,Normal,No,No,No,Arrhythmia
+174,120,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+175,120,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+176,121,Female,No,Low Fat,No,Active,125,77,Normal,No,No,Yes,Heart Murmur
+177,121,Male,Yes,Balanced,No,Sedentary,135,82,Coronary Disease,No,No,No,Coronary Microvascular Disease
+178,121,Female,No,High Fat,Yes,Active,145,87,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+179,122,Male,Yes,High Fat,Yes,Sedentary,160,97,Hypertension,Yes,No,No,Stroke
+180,122,Female,No,Balanced,Yes,Moderate,140,82,Heart Disease,Yes,No,No,Valvular Heart Disease
+181,123,Male,No,Low Fat,Yes,Active,135,77,Normal,No,No,No,Pericarditis
+182,123,Female,Yes,High Fat,No,Sedentary,150,92,Hypertension,Yes,No,No,Peripheral Artery Disease
+183,123,Male,Yes,Balanced,Yes,Moderate,130,83,Normal,No,No,No,Coronary Artery Disease
+184,124,Female,No,High Fat,No,Sedentary,150,93,Hypertension,Yes,Yes,Yes,Heart Failure
+185,124,Male,No,Low Fat,Yes,Active,120,73,Normal,No,No,No,Arrhythmia
+186,124,Female,Yes,High Fat,Yes,Sedentary,140,85,Coronary Disease,Yes,Yes,Yes,Heart Attack
+187,125,Male,No,High Fat,Yes,Moderate,140,85,Aortic Disease,Yes,No,No,Aortic Aneurysm
+188,125,Female,No,Low Fat,No,Active,125,78,Normal,No,No,Yes,Heart Murmur
+189,125,Male,Yes,Balanced,No,Sedentary,135,83,Coronary Disease,No,No,No,Coronary Microvascular Disease
+190,126,Female,No,High Fat,Yes,Active,145,88,Heart Disease,Yes,Yes,Yes,Cardiomyopathy
+191,126,Male,Yes,High Fat,Yes,Sedentary,160,98,Hypertension,Yes,No,No,Stroke
+192,127,Female,No,Balanced,Yes,Moderate,140,83,Heart Disease,Yes,No,No,Valvular Heart Disease
+193,127,Male,No,Low Fat,Yes,Active,135,78,Normal,No,No,No,Pericarditis
+194,127,Female,Yes,High Fat,No,Sedentary,150,93,Hypertension,Yes,No,No,Peripheral Artery Disease
+195,128,Male,Yes,Balanced,Yes,Moderate,130,84,Normal,No,No,No,Coronary Artery Disease
+196,128,Female,No,High Fat,No,Sedentary,150,94,Hypertension,Yes,Yes,Yes,Heart Failure
+197,128,Male,No,Low Fat,Yes,Active,120,74,Normal,No,No,No,Arrhythmia

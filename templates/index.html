@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heart Disease Diagnosis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Heart Disease Diagnosis</h1>
+        <form action="/predict" method="post">
+            <div class="form-group">
+                <label for="Patient_ID">Patient ID:</label>
+                <input type="number" id="Patient_ID" name="Patient_ID" placeholder="Patient ID" required>
+            </div>
+            <div class="form-group">
+                <label for="Age">Age:</label>
+                <input type="number" id="Age" name="Age" placeholder="Age" required>
+            </div>
+            <div class="form-group">
+                <label for="systolicBP">Systolic Blood Pressure:</label>
+                <input type="number" id="systolicBP" name="systolicBP" placeholder="Systolic Blood Pressure" required>
+            </div>
+            <div class="form-group">
+                <label for="diastolicBP">Diastolic Blood Pressure:</label>
+                <input type="number" id="diastolicBP" name="diastolicBP" placeholder="Diastolic Blood Pressure" required>
+            </div>
+            <div class="form-group">
+                <label for="gender">Gender:</label>
+                <select id="gender" name="gender" required>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="smoking">Is the patient a smoker?</label>
+                <select id="smoking" name="smoking" required>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="diet">Diet:</label>
+                <select id="diet" name="diet" required>
+                    <option value="high fat">High Fat</option>
+                    <option value="balanced">Balanced</option>
+                    <option value="low fat">Low Fat</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="familyHistory">Does the patient have a family history of heart disease?</label>
+                <select id="familyHistory" name="familyHistory" required>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="exercise">Is the patient physically active?</label>
+                <select id="exercise" name="exercise" required>
+                    <option value="Active">Active</option>
+                    <option value="Moderate">Moderate</option>
+                    <option value="Sedentary">Sedentary</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="heartCondition">Heart Condition:</label>
+                <select id="heartCondition" name="heartCondition" required>
+                    <option value="normal">Normal</option>
+                    <option value="hypertension">Hypertension</option>
+                    <option value="coronary disease">Coronary Disease</option>
+                    <option value="aortic disease">Aortic Disease</option>
+                    <option value="heart disease">Heart Disease</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="swelling">Does the patient experience swelling? (1 for yes, 0 for no):</label>
+                <select id="swelling" name="swelling" required>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="dizziness">Does the patient experience dizziness? (1 for yes, 0 for no):</label>
+                <select id="dizziness" name="dizziness" required>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="irregularHeartRate">Does the patient have an irregular heart rate? (1 for yes, 0 for no):</label>
+                <select id="irregularHeartRate" name="irregularHeartRate" required>
+                    <option value="1">Yes</option>
+                    <option value="0">No</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <button type="submit">Predict</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
